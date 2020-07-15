@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="activity2_name">Food List Activity</string>
+    <string name="add_item_btn">Add Item</string>
+    <string name="cheese_text">Cheese</string>
+    <string name="apples_text">Apples</string>
+    <string name="rice_text">Rice</string>
+    <string name="fish_text">Fish</string>
+    <string name="squash_text">Squash</string>
+    <string name="tuna_text">Tuna</string>
+    <string name="pepper_text">Pepper</string>
+    <string name="avocado_text">Avocado</string>
+    <string name="potato_text">Potato</string>
+    <string name="kale_text">Kale</string>
+</resources>
